@@ -1,59 +1,54 @@
 <footer>
-  <style>
-    ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
-    a{
-      display: left;
+  <style type="text/css">
+    li {
+      display: inline-block;
+      margin-right: 10px;
     }
   </style>
+ 
 
 	<!-- Your custom nav footer here -->
 	<ul>
-
 		{% if site.github_username %}
-  		<li>
+      <li>
     		<a href="https://github.com/{{ site.github_username }}">
       			<i class="fa fa-github"></i> 
     		</a>
-  		</li>
+      </li>
 		{% endif %}
 
-
 		{% if site.linkedin_username %}
- 			<li>
+      <li>
     			<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
      				<i class="fa fa-linkedin"></i> 
     			</a>
-  			</li>
+      </li>
 		{% endif %}
 
 		{% if site.google_plus_username %}
-  			<li>
+      <li>
     			<a href="https://plus.google.com/+{{ site.google_plus_username }}">
      				<i class="fa fa-google-plus"></i>
     			</a>
-  			</li>
+      </li>
 		{% endif %}
 
 		{% if site.facebook_username %}
-  			<li>
+      <li>
     			<a href="https://www.facebook.com/{{ site.facebook_username }}">
       				<i class="fa fa-facebook"></i> 
     			</a>
-  			</li>
+      </li>
 		{% endif %}
 
 		{% if site.facebook_username %}
-  			<li>
+      <li>
     			<a href="https://www.instagram.com/{{ site.instagram_username }}">
       				<i class="fa fa-instagram" aria-hidden="true"></i>
     			</a>
-  			</li>
+      </li>
 		{% endif %}
+</ul>
 
-	</ul>
 
 </footer>
