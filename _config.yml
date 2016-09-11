@@ -16,6 +16,15 @@ permalink: /:title
 paginate: 8
 paginate_path: /page:num/
 
+# Social Links
+
+github_username:      atukenov
+linkedin_username:    atukenov
+google_plus_username: almaztukenov
+facebook_username:    almaztukenov
+instagram_username:   atukenov
+
+
 # Default values
 defaults:
   -
@@ -33,5 +42,5 @@ gems: [jekyll-paginate]
 
 # Options
 custom_header: false
-custom_nav_footer: false
+custom_nav_footer: true
 reverse: true
