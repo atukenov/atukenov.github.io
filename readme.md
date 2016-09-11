@@ -16,9 +16,9 @@ Enjoy!
 <a href="http://github.com/atukenov">
   <img src="img/1473647117_github.png" width="42px" height="42px"">
 </a>
-<a href="http://vk.com/almaztukenov">
+<a href="http://vk.com/iheey">
   <img src="img/1473647119_vkontakte.png" width="42px" height="42px"">
 </a>
-<a href="http://linkedin.com/atukenov">
+<a href="https://www.linkedin.com/in/atukenov">
   <img src="img/1473647114_linkedin.png" width="42px" height="42px"">
 </a>
