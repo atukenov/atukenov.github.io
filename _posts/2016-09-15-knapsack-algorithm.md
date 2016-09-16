@@ -22,7 +22,7 @@ However, we can use dynamic programming, that optimize our stupid code. How we w
 We will write same algorithm like this table.
 
 *PseudoCode*👇👇👇
-``` cpp
+{% highlight c++ linenos %}
 	//struct array with two declarations: Weight & Cost Array[]
 	//array for dynamic D[];
 	//it is base of our dynamic solving, because we can always take with you 0 weight (0 items)
@@ -41,5 +41,6 @@ We will write same algorithm like this table.
 		}
 		//answer will the max cost in all D array
 	
-```
+{% endhighlight %}
+
 So you can check yourself in this [problem](https://www.hackerrank.com/challenges/unbounded-knapsack). The problem is a little bit 😈 different 😈, but you can found using logic 😉 (*Hint:* can use one item many times)) Good Luck!!!
