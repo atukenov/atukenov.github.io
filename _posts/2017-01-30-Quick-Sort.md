@@ -7,7 +7,7 @@ title: Quick Sort
 
 This Algorithm has a time complexity of **O(N\*logN)** and it's called _QuickSort_\.
 
-QuickSort uses Divide-n-Conquer recursive algorithm to sort the values\. :+1: :octocat:
+QuickSort uses Divide-n-Conquer recursive algorithm to sort the values\.
 
 #### Basic Idea of QuickSort
 
@@ -19,7 +19,7 @@ QuickSort uses Divide-n-Conquer recursive algorithm to sort the values\. :+1: :o
     		c. The elements greater than pivot element are on the right of it
 		3. Recursively apply the above process to the left and right part of the pivot element.
 
-#### Algorithm  :octocat:
+#### Algorithm 
 
 **Step 1.**  Choosing the Pivot Element
 
